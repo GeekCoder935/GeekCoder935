@@ -50,10 +50,12 @@ Bem-vindo ao meu espaço no GitHub! Aqui compartilho projetos, ideias e experiê
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/rafaelborges00/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GeekCoder2)
+
 ---
 
 > “A tecnologia move o mundo — e eu quero fazer parte da mudança.”
 
+---
 
 ![Geek Coder GitHub stats](https://github-readme-stats.vercel.app/api?username=GeekCoder935&show_icons=true&theme=dracula)
 

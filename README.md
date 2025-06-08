@@ -49,7 +49,7 @@ Bem-vindo ao meu espaço no GitHub! Aqui compartilho projetos, ideias e experiê
 
 ## 📬 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Borges-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rafaelborges00/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelborges00/)
 
 ---
 

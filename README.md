@@ -26,17 +26,6 @@ Bem-vindo ao meu espaço no GitHub! Aqui compartilho projetos, ideias e experiê
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-<!-- 
-## 📂 Meus principais repositórios
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [`sap-commerce-db-sync`](https://github.com/seu-usuario/sap-commerce-db-sync) | 🔄 Script de sincronização de base de dados para SAP Commerce Cloud com credenciais dinâmicas | Java, Groovy, SQL |
-| [`ecommerce-insights-dashboard`](https://github.com/seu-usuario/ecommerce-insights-dashboard) | 📊 Dashboard com Elastic + Kibana para análise de comportamento de usuários | ElasticSearch, Kibana, Logstash |
-| [`vivo-b2b-migration`](https://github.com/seu-usuario/vivo-b2b-migration) | 📦 Migração de dados e estrutura de B2B para SAP Commerce | Java, ImpEx, FlexibleSearch |
-
----
--->
 
 ## 🧪 Projetos pessoais
 
@@ -53,23 +42,8 @@ Bem-vindo ao meu espaço no GitHub! Aqui compartilho projetos, ideias e experiê
 
 ---
 
-> “A tecnologia move o mundo — e eu quero fazer parte da mudança.”
+![Geek Coder GitHub stats](https://github-readme-stats.vercel.app/api?username=GeekCoder935&show_icons=true&theme=dracula)
 
 ---
 
-![Geek Coder GitHub stats](https://github-readme-stats.vercel.app/api?username=GeekCoder935&show_icons=true&theme=dracula)
-
-<!--
-**GeekCoder935/GeekCoder935** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “A tecnologia move o mundo — e eu quero fazer parte da mudança.”

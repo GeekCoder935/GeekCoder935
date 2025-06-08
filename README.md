@@ -55,6 +55,8 @@ Bem-vindo ao meu espaço no GitHub! Aqui compartilho projetos, ideias e experiê
 > “A tecnologia move o mundo — e eu quero fazer parte da mudança.”
 
 
+![Geek Coder GitHub stats](https://github-readme-stats.vercel.app/api?username=GeekCoder935&show_icons=true&theme=dracula)
+
 <!--
 **GeekCoder935/GeekCoder935** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

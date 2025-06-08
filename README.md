@@ -22,9 +22,8 @@ Bem-vindo ao meu espaço no GitHub! Aqui compartilho projetos, ideias e experiê
 ![SAP Commerce](https://img.shields.io/badge/SAP%20Commerce-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 
 ---
 <!-- 
@@ -49,8 +48,8 @@ Bem-vindo ao meu espaço no GitHub! Aqui compartilho projetos, ideias e experiê
 
 ## 📬 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelborges00/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@seu-canal)
+[![LinkedIn](https://img.shields.io/badge/-L-0A66C2?style=for-the-badge&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/rafaelborges00/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GeekCoder2)
 ---
 
 > “A tecnologia move o mundo — e eu quero fazer parte da mudança.”

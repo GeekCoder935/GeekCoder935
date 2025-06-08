@@ -21,39 +21,9 @@ Bem-vindo ao meu espaço no GitHub! Aqui compartilho projetos, ideias e experiê
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SAP Commerce](https://img.shields.io/badge/SAP%20Commerce-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
-
-
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<!-- Java -->
-<a href="https://www.java.com">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
-</a>
-
-<!-- JUnit -->
-<a href="https://junit.org/junit5/">
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logoColor=white" alt="JUnit Badge"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/JUnit_5_Banner.svg" alt="JUnit Logo" width="60" style="vertical-align: middle; margin-left: 6px;" />
-</a>
-
-<!-- SQL Server -->
-<a href="https://www.microsoft.com/en-us/sql-server">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoColor=white" alt="SQL Server Badge"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.svg" alt="SQL Server Logo" width="22" style="vertical-align: middle; margin-left: 6px;" />
-</a>
-
-<!-- Azure -->
-<a href="https://azure.microsoft.com/">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Badge"/>
-</a>
-
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/seu-usuario">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
 
 
 ---

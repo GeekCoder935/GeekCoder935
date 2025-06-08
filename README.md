@@ -8,10 +8,10 @@ Bem-vindo ao meu espaço no GitHub! Aqui compartilho projetos, ideias e experiê
 
 ## 👨‍💻 Sobre mim
 
-- 💼 Consultor Sênior em SAP Commerce Cloud (Hybris), liderando squad de desenvolvedores
+- 💼 Consultor em SAP Commerce Cloud (Hybris), liderando squad de desenvolvedores
 - 🧪 Experiência em desenvolvimento de integrações, testes unitários e automação de processos no ecossistema SAP
-- 📈 Entusiasta de dados, BI e otimização de processos para ambientes de alto volume
-- 📱 Foco em projetos voltados para Telecom, especialmente com rollout de redes móveis (3G, 4G e 5G)
+- 📈 Entusiasta de Programacao 
+- 📱 Foco em projetos voltados para a Tecnologia Java  / Go
 - 🌐 Apaixonado por ensinar e compartilhar conhecimento
 
 ---
@@ -27,7 +27,7 @@ Bem-vindo ao meu espaço no GitHub! Aqui compartilho projetos, ideias e experiê
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ---
-
+<!-- 
 ## 📂 Meus principais repositórios
 
 | Projeto | Descrição | Tecnologias |
@@ -37,19 +37,19 @@ Bem-vindo ao meu espaço no GitHub! Aqui compartilho projetos, ideias e experiê
 | [`vivo-b2b-migration`](https://github.com/seu-usuario/vivo-b2b-migration) | 📦 Migração de dados e estrutura de B2B para SAP Commerce | Java, ImpEx, FlexibleSearch |
 
 ---
+-->
 
 ## 🧪 Projetos pessoais
 
 🎯 Em breve lançarei uma série de vídeos sobre Git, testes unitários e carreira em tecnologia no meu canal.
 
-📌 Também estou desenvolvendo um guia interativo para quem está começando no mundo SAP Commerce Cloud.
+📌 Também estou desenvolvendo conteudos variados sobre Inteligencia Artificial.
 
 ---
 
 ## 📬 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Borges-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rafaelborgesdev)
-[![E-mail](https://img.shields.io/badge/E--mail-contato@rafaelborges.dev-red?style=flat-square&logo=gmail)](mailto:contato@rafaelborges.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Borges-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rafaelborges00/)
 
 ---
 

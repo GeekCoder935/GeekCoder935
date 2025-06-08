@@ -1,4 +1,60 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Rafael Borges
+
+🔧 Consultor em SAP Commerce Cloud | 🧠 Apaixonado por Inovação Digital | 🚀 Ex-Trainee na Vivo
+
+Bem-vindo ao meu espaço no GitHub! Aqui compartilho projetos, ideias e experiências do meu dia a dia como consultor de tecnologia com foco em e-commerce e transformação digital. 
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 💼 Consultor Sênior em SAP Commerce Cloud (Hybris), liderando squad de desenvolvedores
+- 🧪 Experiência em desenvolvimento de integrações, testes unitários e automação de processos no ecossistema SAP
+- 📈 Entusiasta de dados, BI e otimização de processos para ambientes de alto volume
+- 📱 Foco em projetos voltados para Telecom, especialmente com rollout de redes móveis (3G, 4G e 5G)
+- 🌐 Apaixonado por ensinar e compartilhar conhecimento
+
+---
+
+## 🧠 Tecnologias que domino
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SAP Commerce](https://img.shields.io/badge/SAP%20Commerce-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+---
+
+## 📂 Meus principais repositórios
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [`sap-commerce-db-sync`](https://github.com/seu-usuario/sap-commerce-db-sync) | 🔄 Script de sincronização de base de dados para SAP Commerce Cloud com credenciais dinâmicas | Java, Groovy, SQL |
+| [`ecommerce-insights-dashboard`](https://github.com/seu-usuario/ecommerce-insights-dashboard) | 📊 Dashboard com Elastic + Kibana para análise de comportamento de usuários | ElasticSearch, Kibana, Logstash |
+| [`vivo-b2b-migration`](https://github.com/seu-usuario/vivo-b2b-migration) | 📦 Migração de dados e estrutura de B2B para SAP Commerce | Java, ImpEx, FlexibleSearch |
+
+---
+
+## 🧪 Projetos pessoais
+
+🎯 Em breve lançarei uma série de vídeos sobre Git, testes unitários e carreira em tecnologia no meu canal.
+
+📌 Também estou desenvolvendo um guia interativo para quem está começando no mundo SAP Commerce Cloud.
+
+---
+
+## 📬 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Borges-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rafaelborgesdev)
+[![E-mail](https://img.shields.io/badge/E--mail-contato@rafaelborges.dev-red?style=flat-square&logo=gmail)](mailto:contato@rafaelborges.dev)
+
+---
+
+> “A tecnologia move o mundo — e eu quero fazer parte da mudança.”
+
 
 <!--
 **GeekCoder935/GeekCoder935** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
